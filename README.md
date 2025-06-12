@@ -117,11 +117,11 @@ To recreate the original environment used for compute-intensive notebooks, insta
 
 \# TensorFlow environment (for MIA)
 
-conda env create -f tensorflow_fl_env.yaml
+```conda env create -f tensorflow_fl_env.yaml```
 
 \# PyTorch environment (for black-box inversion)
 
-conda env create -f pytorch_fl_env.yaml
+```conda env create -f pytorch_fl_env.yaml```
 
 ## **📬 Questions or Issues?**
 
