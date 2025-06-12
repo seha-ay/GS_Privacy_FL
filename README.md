@@ -94,7 +94,7 @@ To regenerate MIA results:
 
 1. **Clone the repository** to your local system or directly into your Google Drive:
 
-git clone <https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git>
+git clone <[[https://github.com/seha-ay/GS_Privacy_FL.git](https://github.com/seha-ay/GS_Privacy_FL.git)>
 
 1. Open any notebook in Google Colab (recommended) or your own Jupyter environment.
 2. Modify file paths as necessary based on your environment or Drive mount point.
