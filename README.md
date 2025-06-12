@@ -5,7 +5,7 @@
 This repository contains the full experimental framework and code used in the study:  
 **_"Gerchberg–Saxton Transformations for Privacy-Preserving Biomedical AI in Local and Federated Learning."_**
 
-We provide code, data processing pipelines, model training workflows, and evaluation modules to enable full or partial reproduction of our results in both high-compute and minimal-resource environments. **Please make sure you unzip all zipped files before executing any notebooks and download the _inverted_images_ from releases!**
+We provide code, data processing pipelines, model training workflows, and evaluation modules to enable full or partial reproduction of our results in both high-compute and minimal-resource environments. **Please make sure you unzip all zipped files before executing any notebooks and download the zipped files from releases!**
 
 **🔧 System Requirements**
 
